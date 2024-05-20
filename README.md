@@ -51,4 +51,11 @@ I am deeply fascinated by the world of technology and software development. My a
   </a> 
 </p>
 
-## Projects
+## 📊 Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhasinahammad&show_icons=true&locale=en" alt="nurhasinahammad" /></p>
+
+## ⚡Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhasinahammad&" alt="nurhasinahammad" /></p>
+
+## 🏷️ Main Languages
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurhasinahammad&show_icons=true&locale=en&layout=compact" alt="nurhasinahammad" /></p>
