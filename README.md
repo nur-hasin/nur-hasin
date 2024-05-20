@@ -1,5 +1,5 @@
-<h1 align="center">Hey there👋</h1>
-<p align="center"><strong><em>Aspiring Software Engineer | Passionate Coder | Tech Enthusiast</em></strong></p>
+<h1 align="center">Hey there 👋</h1>
+<p align="center"><strong>Aspiring Software Engineer | Passionate Coder | Tech Enthusiast</strong></p>
 
 <p align="justify">
 I am deeply fascinated by the world of technology and software development. My academic journey and personal projects have equipped me with a diverse skill set, which I am eager to expand through collaboration and continuous learning.
