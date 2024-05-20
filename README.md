@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋</h1>
+<h1 align="center">Hey there 👋</h1>
 <p align="center"><strong><em>Aspiring Software Engineer | Passionate Coder | Tech Enthusiast</em></strong></p>
 
 <p align="justify">
