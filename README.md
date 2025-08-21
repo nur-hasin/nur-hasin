@@ -52,10 +52,10 @@ I am deeply fascinated by the world of technology and software development. My a
 </p>
 
 ## 📊 Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhasinahammad&show_icons=true&locale=en&theme=tokyonight" alt="nurhasinahammad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur-hasin&show_icons=true&locale=en&theme=tokyonight" alt="nur-hasin" /></p>
 
 ## ⚡Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhasinahammad&&theme=tokyonight" alt="nurhasinahammad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nur-hasin&&theme=tokyonight" alt="nur-hasin" /></p>
 
 ## 🏷️ Main Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurhasinahammad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nurhasinahammad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur-hasin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nur-hasin" /></p>
