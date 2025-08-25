@@ -52,10 +52,10 @@ I am deeply fascinated by the world of technology and software development. My a
 </p>
 
 ## 📊 Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur-hasin&show_icons=true&locale=en&theme=tokyonight" alt="nur-hasin" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nur-hasin&show_icons=true&locale=en&theme=tokyonight)
 
-## ⚡Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nur-hasin&theme=tokyonight" alt="nur-hasin" /></p> 
+## ⚡ Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=nur-hasin&theme=tokyonight)
 
-## 🏷️ Main Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur-hasin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nur-hasin" /></p>
+## 🏷️ Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nur-hasin&show_icons=true&locale=en&layout=compact&theme=tokyonight)
