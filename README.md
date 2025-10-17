@@ -61,4 +61,5 @@ I am deeply fascinated by the world of technology and software development. My a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nur-hasin&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 
-https://holopin.me/nurhasin(https://holopin.io/@nurhasin)
+https://holopin.me/nurhasin
+https://holopin.io/@nurhasin
