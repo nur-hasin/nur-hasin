@@ -93,7 +93,7 @@ I am deeply fascinated by the world of technology and software development. My a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nur-hasin&show_icons=true&locale=en&theme=tokyonight)
 
 ## ⚡ Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=nur-hasin&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nur-hasin&theme=tokyonight)
 
 ## 🏷️ Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nur-hasin&show_icons=true&locale=en&layout=compact&theme=tokyonight)
