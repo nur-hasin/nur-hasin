@@ -91,7 +91,7 @@ I am deeply fascinated by the world of technology and software development. My a
 
 ## 🎴 GitHub Card
 <p align="center">
-  <img src="https://githubcard.com/nur-hasin.svg?d=aZF9ZrAc" alt="GitHub Card" width="800"/>
+  <img src="https://githubcard.com/nur-hasin.svg?d=-cFxe6MC" alt="GitHub Card"/>
 </p>
 
 ## 🏅 Holopin Badges
