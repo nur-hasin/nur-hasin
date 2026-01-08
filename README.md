@@ -90,15 +90,15 @@ I am deeply fascinated by the world of technology and software development. My a
 </p>
 
 ## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=nur-hasin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nur-hasin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-hasin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur-hasin&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## ⚡ Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nur-hasin&theme=tokyonight)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nur-hasin&theme=tokyonight&hide_border=false)
 
 ## 🏷️ Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nur-hasin&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-hasin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏅 Holopin Badges
 [![An image of @nurhasin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nurhasin)](https://holopin.io/@nurhasin)
