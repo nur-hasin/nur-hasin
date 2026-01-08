@@ -9,7 +9,7 @@ I am deeply fascinated by the world of technology and software development. My a
 </p>
 
 ## 🧰 Skills
-<p align="left">
+<p align="center">
   <!-- Programming Languages -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -91,7 +91,7 @@ I am deeply fascinated by the world of technology and software development. My a
 
 ## 🎴 GitHub Card
 <p align="center">
-  <img src="https://githubcard.com/nur-hasin.svg?d=aZF9ZrAc" alt="GitHub Card"/>
+  <img src="https://githubcard.com/nur-hasin.svg?d=aZF9ZrAc" alt="GitHub Card" width="800"/>
 </p>
 
 ## 🏅 Holopin Badges
