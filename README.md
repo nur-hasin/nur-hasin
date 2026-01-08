@@ -89,16 +89,10 @@ I am deeply fascinated by the world of technology and software development. My a
   </a>
 </p>
 
-## 📊 Stats
+## 🎴 GitHub Card
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur-hasin&theme=tokyonight&hide_border=true"/>
+  <img src="https://githubcard.com/nur-hasin.svg?d=aZF9ZrAc" alt="GitHub Card"/>
 </p>
-
-## ⚡ Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nur-hasin&theme=tokyonight&hide_border=false)
-
-## 🏷️ Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-hasin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏅 Holopin Badges
 [![An image of @nurhasin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nurhasin)](https://holopin.io/@nurhasin)
