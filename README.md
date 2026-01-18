@@ -92,9 +92,8 @@ I am deeply fascinated by the world of technology and software development. My a
 ## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nur-hasin&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=nur-hasin&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=nur-hasin&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nur-hasin&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </p>
