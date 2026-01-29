@@ -2,11 +2,14 @@
 
 <p align="center"><strong>I am a Computer Science & Engineering student majoring in Software Engineering. Currently, I am deep-diving into the MERN Stack while exploring how to integrate Agentic AI into modern web applications.</strong></p>
 
-- 🔭 **I’m currently working on:** Full-stack web applications using **React.js** and **Node.js**.
-- 🌱 **I’m currently learning:** Advanced Backend Architecture and AI/LLM API integration.
-- 👯 **I’m looking to collaborate on:** Open Source projects (React, Web Tooling, AI Wrappers).
-- 🏆 **Achievements:** Hacktoberfest Super Contributor & Holopin Badge Earner.
-- ⚡ **Fun fact:** I love solving problems on LeetCode and contributing to open source projects!
+## 👨‍💻 About Me
+
+- 🔭 **Currently working on:** Production-ready full-stack applications using **React.js, Node.js, Express, and SQL/NoSQL databases**
+- 🌱 **Currently learning:** Backend system design, scalable architectures, and **AI/LLM API integration with Agentic AI workflows**
+- 👯 **Open to collaborating on:** Open-source projects in **web platforms, developer tooling, and AI-enabled products**
+- 💬 **Ask me about:** MERN Stack, REST APIs, software engineering best practices, and algorithmic problem-solving
+- ⚡ **Fun fact:** I enjoy solving algorithmic problems on LeetCode and turning ideas into real-world products
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nurhasinahammad&color=blue&style=flat-square" alt="Profile Views">
