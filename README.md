@@ -1,9 +1,13 @@
-<h1 align="center">Hey there👋</h1>
-<p align="center"><strong>Aspiring AI-Powered Full-Stack Engineer | Passionate Coder | Tech Enthusiast</strong></p>
+<h1 align="center">Hi there, I'm Hasin! 👋</h1>
 
-<p align="justify">
-I am deeply fascinated by the world of technology and software development. My academic journey and personal projects have equipped me with a diverse skill set, which I am eager to expand through collaboration and continuous learning.
-</p>
+<p align="center"><strong>I am a Computer Science & Engineering student majoring in Software Engineering. Currently, I am deep-diving into the MERN Stack while exploring how to integrate Agentic AI into modern web applications.</strong></p>
+
+- 🔭 **I’m currently working on:** Full-stack web applications using **React.js** and **Node.js**.
+- 🌱 **I’m currently learning:** Advanced Backend Architecture and AI/LLM API integration.
+- 👯 **I’m looking to collaborate on:** Open Source projects (React, Web Tooling, AI Wrappers).
+- 🏆 **Achievements:** Hacktoberfest Super Contributor & Holopin Badge Earner.
+- ⚡ **Fun fact:** I love solving problems on LeetCode and contributing to open source projects!
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nurhasinahammad&color=blue&style=flat-square" alt="Profile Views">
 </p>
